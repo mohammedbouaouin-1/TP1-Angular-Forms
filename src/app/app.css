@@ -1,0 +1,12 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.active-link {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.container {
+  padding: 32px 16px;
+}
